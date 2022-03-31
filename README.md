@@ -4,6 +4,8 @@ This is my compleated cooding project.
 
 the exe is located in brightway\bin\Debug\net5.0
 
+the exe needs to be ran in the command prompt to display. Other wise it will run and close really fast.
+
 it does run out of the box. It has four classes one is a header to make 
 changing the number of toppings shown at the end more manageable, and 
 the other is the link to the JSON code. To make changing it to a 
