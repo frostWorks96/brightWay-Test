@@ -2,7 +2,7 @@
 
 This is my compleated cooding project.
 
-the exe is located in brightway\bin\Debug\net5.0
+the exe is located in brightway\brightway\bin\Debug\net5.0
 
 the exe needs to be ran in the command prompt to display. Other wise it will run and close really fast.
 
