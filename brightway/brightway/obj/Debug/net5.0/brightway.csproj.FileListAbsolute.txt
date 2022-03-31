@@ -1,0 +1,16 @@
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\bin\Debug\net5.0\brightway.exe
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\bin\Debug\net5.0\brightway.deps.json
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\bin\Debug\net5.0\brightway.runtimeconfig.json
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\bin\Debug\net5.0\brightway.runtimeconfig.dev.json
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\bin\Debug\net5.0\brightway.dll
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\bin\Debug\net5.0\ref\brightway.dll
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\bin\Debug\net5.0\brightway.pdb
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\obj\Debug\net5.0\brightway.csproj.AssemblyReference.cache
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\obj\Debug\net5.0\brightway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\obj\Debug\net5.0\brightway.AssemblyInfoInputs.cache
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\obj\Debug\net5.0\brightway.AssemblyInfo.cs
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\obj\Debug\net5.0\brightway.csproj.CoreCompileInputs.cache
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\obj\Debug\net5.0\brightway.dll
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\obj\Debug\net5.0\ref\brightway.dll
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\obj\Debug\net5.0\brightway.pdb
+C:\Users\Mathew\Desktop\Programes\c#\brightway\brightway\obj\Debug\net5.0\brightway.genruntimeconfig.cache
